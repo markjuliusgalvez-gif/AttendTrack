@@ -29,7 +29,7 @@ attendance rates automatically. It was created as a group activity on version co
 ## How to Run
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/markjuliusgalvez-gif/AttendTrack.git
 cd AttendTrack
 python main.py
 ```
