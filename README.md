@@ -78,8 +78,8 @@ See [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) for an explanation of every m
 ## Contributors
 
 - Mark Julius Galvez ([@markjuliusgalvez-gif](https://github.com/markjuliusgalvez-gif))
-- Charles Dave Hafalla ([@Chals_Devil](https://github.com/Chals_Devil))
-- Yvette Langas ([@yvette](https://github.com/yvette))
+- Charles Dave Hafalla ([@ChalsDev](https://github.com/ChalsDev))
+- Yvette Langas ([@YVETTE-REAL-USERNAME](https://github.com/YVETTE-REAL-USERNAME))
 - Jasmine Vilog ([@vilogjasmine06-jpg](https://github.com/vilogjasmine06-jpg))
 
 ## License
