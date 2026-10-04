@@ -77,10 +77,10 @@ See [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md) for an explanation of every m
 
 ## Contributors
 
-- Mark Julius Galvez (@Rxnzu.git)
-- Charles Dave Hafalla (@Chals_Devi)
-- Yvette Langas (@yvette)
-- Jasmine Vilog (@vilogjasmine06-jpg)
+- Mark Julius Galvez ([@markjuliusgalvez-gif](https://github.com/markjuliusgalvez-gif))
+- Charles Dave Hafalla ([@Chals_Devil](https://github.com/Chals_Devil))
+- Yvette Langas ([@yvette](https://github.com/yvette))
+- Jasmine Vilog ([@vilogjasmine06-jpg](https://github.com/vilogjasmine06-jpg))
 
 ## License
 
